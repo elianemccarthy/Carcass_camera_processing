@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Schema id="schema0" name="schema0">
+      <SimpleField name="Description" type="string"/>
+      <SimpleField name="pdfmaps_photos" type="string">
+        <displayName>Photos</displayName>
+      </SimpleField>
+    </Schema>
+    <Folder>
+      <styleUrl>#style0</styleUrl>
+      <name>Layer</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema0"/>
+      </ExtendedData>
+      <Placemark>
+        <name>done</name>
+        <TimeStamp>
+          <when>2022-05-28T10:26:31+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.27181414716,-36.5419056915915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>done 10</name>
+        <TimeStamp>
+          <when>2022-05-29T07:03:26+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.28321350711,-36.5498095424109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>done 11</name>
+        <TimeStamp>
+          <when>2022-05-29T07:03:38+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.284642721324,-36.5492828305068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>done 12</name>
+        <TimeStamp>
+          <when>2022-05-29T12:14:31+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.29195495325,-36.5491410140621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>done 13</name>
+        <TimeStamp>
+          <when>2022-05-29T12:15:06+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.293265100308,-36.5471339677871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>done 14</name>
+        <TimeStamp>
+          <when>2022-05-29T12:48:09+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.292967581175,-36.5480081603448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>done 15</name>
+        <TimeStamp>
+          <when>2022-05-29T13:19:12+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.293944737859,-36.5485798323291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>done 16</name>
+        <TimeStamp>
+          <when>2022-05-29T13:56:42+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.295230647472,-36.5511019947495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>done 17</name>
+        <TimeStamp>
+          <when>2022-05-29T14:34:48+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.301837208361,-36.5468078209267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>done 18</name>
+        <TimeStamp>
+          <when>2022-05-29T15:07:35+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.289043798837,-36.5439448963299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>done 2</name>
+        <TimeStamp>
+          <when>2022-05-28T11:34:54+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.279073339997,-36.5384522799992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>done 3</name>
+        <TimeStamp>
+          <when>2022-05-28T12:15:36+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.280883625383,-36.5347200263019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>done 4</name>
+        <TimeStamp>
+          <when>2022-05-28T12:38:50+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.284734930215,-36.5332273280219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>done 5</name>
+        <TimeStamp>
+          <when>2022-05-28T14:11:13+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.273677061142,-36.5322702554433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>done 6</name>
+        <TimeStamp>
+          <when>2022-05-28T14:35:59+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.272910229183,-36.5312578571521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>done 7</name>
+        <TimeStamp>
+          <when>2022-05-28T15:10:23+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.266630123927,-36.5331110299712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Done 8</name>
+        <TimeStamp>
+          <when>2022-05-28T15:03:33+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.269452264378,-36.5281056691079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Done 9</name>
+        <TimeStamp>
+          <when>2022-05-29T07:03:04+10:00</when>
+        </TimeStamp>
+        <styleUrl>#style1</styleUrl>
+        <Point>
+          <coordinates>
+            148.275841275929,-36.5495329837514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="style0">
+      <IconStyle>
+        <color>802f80ff</color>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+      <LineStyle>
+        <color>ff2f80ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>802f80ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="style1">
+      <IconStyle>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/yellow_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>
