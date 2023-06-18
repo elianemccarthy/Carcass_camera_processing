@@ -1,6 +1,6 @@
 wd_images_ID <- file.path("S:/sdcardstagging/SD_card_delivered_15th_sep_2021/ETDP085_EM")
 
-library(camtrapR)
+library(camtrapR)#
 library(exiftoolr)
 library(dplyr)
 library(rgdal)

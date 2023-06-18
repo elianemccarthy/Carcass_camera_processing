@@ -106,7 +106,7 @@ rec.db.species60.exclude2 <-recordTable(inDir               = wd_images_ID,
                                                                     exclude             = "nil")
 
 #see what species we recorded:
-table(rec.db.species60.exclude$Species)
+table(rec.db.species60.exclude$Species)#
 
 #extract camera metadata:
 exifTagNames(inDir = wd_images_ID)
