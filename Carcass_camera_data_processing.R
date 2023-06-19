@@ -109,7 +109,7 @@ rec.db.species60.exclude2 <-recordTable(inDir               = wd_images_ID,
 table(rec.db.species60.exclude$Species)#
 
 #extract camera metadata:
-exifTagNames(inDir = wd_images_ID)
+exifTagNames(inDir = wd_images_ID)#
 
 
 #Camera operation matrix: https://jniedballa.github.io/camtrapR/articles/camtrapr3.html 
